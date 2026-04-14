@@ -1,0 +1,8 @@
+{
+  "name": "bot-futebol1",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "venom-bot": "^5.0.0"
+  }
+}
